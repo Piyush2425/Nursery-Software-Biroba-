@@ -1,0 +1,17 @@
+# Source code (only publishing app files as requested)
+src/
+docs/
+publish/
+dotnet-tools.json
+Start-App.bat
+
+# Build artifacts & temp files
+bin/
+obj/
+*.pdb
+*.xml
+*.user
+*.suo
+.vs/
+.idea/
+.gemini/
