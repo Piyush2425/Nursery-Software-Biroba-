@@ -2,6 +2,7 @@
 src/
 docs/
 publish/
+dist/
 dotnet-tools.json
 Start-App.bat
 
