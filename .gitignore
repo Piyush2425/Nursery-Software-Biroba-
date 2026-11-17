@@ -8,6 +8,7 @@ Start-App.bat
 # Build artifacts & temp files
 bin/
 obj/
+*.zip
 *.pdb
 *.xml
 *.user

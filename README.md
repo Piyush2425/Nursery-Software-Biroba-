@@ -6,16 +6,9 @@
 
 ## 📥 सॉफ्टवेअर डाऊनलोड कसे करावे (How to Download & Run)
 
-खालीलपैकी कोणताही एक पर्याय निवडा:
-
-### पर्याय १: थेट .exe फाईल (Direct Executable - 19 MB)
-1. **[Shree-Biroba-Nursery.exe](https://github.com/Piyush2425/Nursery-Software-Biroba-/raw/main/Shree-Biroba-Nursery.exe)** वर क्लिक करून डाउनलोड करा.
-2. डाऊनलोड झालेली `.exe` फाईल कॉम्प्युटरवर सेव्ह करा.
-3. त्यावर डबल-क्लिक करून सॉफ्टवेअर सुरू करा!
-
-### पर्याय २: संपूर्ण पॅकेज झिप फाईल (Full Package .ZIP)
-1. **[BirobaNursery-FullPackage.zip](https://github.com/Piyush2425/Nursery-Software-Biroba-/raw/main/BirobaNursery-FullPackage.zip)** डाउनलोड करा.
-2. झिप फाईल Extract करा आणि `NurseryBilling.App.exe` वर डबल-क्लिक करा.
+1. **[Shree-Biroba-Nursery.exe](https://github.com/Piyush2425/Nursery-Software-Biroba-/raw/main/Shree-Biroba-Nursery.exe)** या लिंकवर क्लिक करून `.exe` फाईल डाउनलोड करा.
+2. डाऊनलोड झालेली `.exe` फाईल तुमच्या कॉम्प्युटरवर सेव्ह करा.
+3. त्यावर डबल-क्लिक करून सॉफ्टवेअर सुरू करा! (कोणतीही अतिरिक्त इन्स्टॉलेशन किंवा फाईल्सची गरज नाही).
 
 ---
 
